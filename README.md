@@ -1,5 +1,6 @@
 # react-native-widget
 
+easy widget for iOS and android
 ## Getting started
 
 `$ npm install react-native-widget --save`
